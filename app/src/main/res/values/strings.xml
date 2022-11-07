@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">recyleView</string>
+    <string name="review">review</string>
+    <string name="reviewsmartphone">reviewsmartphone</string>
+    <string name="produksismartphone">produksismartphone</string>
+    <string name="price">price</string>
+    <string name="harga_smartphone">harga_smartphone</string>
+    <string-array name="smartphone">
+        <item>Iphone</item>
+        <item>Oppo</item>
+        <item>Samsung</item>
+        <item>Vivo</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 8.000.000</item>
+        <item>Rp. 7.000.000</item>
+        <item>Rp. 4.000.000</item>
+        <item>Rp. 3.000.000</item>
+    </string-array>
+</resources>
+
